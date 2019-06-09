@@ -8,6 +8,9 @@ using System.Windows.Forms;
 
 namespace Odev_2
 {
+    /// <summary>
+    /// Panel üzerindeki tıklanan kutucakların ilgili sınıfı ("Button" sınıfından kalıtılmıştır)
+    /// </summary>
     public class Kutucuk:Button
     {
         private int xKoordinati;

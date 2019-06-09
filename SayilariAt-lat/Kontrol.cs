@@ -19,6 +19,7 @@ namespace Odev_2
         private Label kalanKutucuk;
         private Label hamle;
 
+
         public Kontrol(Panel p, Label l1, Label l2)
         {
             panel = p;
@@ -147,6 +148,7 @@ namespace Odev_2
             kutucuklar[x, y].BackColor = Color.SpringGreen;
             sayac++;
         }
+
 
         private void KutucuklarinRenginiDuzenle()
         {

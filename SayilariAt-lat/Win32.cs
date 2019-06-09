@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Odev_2
 {
+    /// <summary>
+    /// Özel messagebox için gerekli olan metotların bulunduğu sınıf
+    /// </summary>
     public class Win32
     {
         #region Values & structs
