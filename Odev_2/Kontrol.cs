@@ -33,6 +33,8 @@ namespace Odev_2
             Rectangle r = panel.ClientRectangle;
             Point p = new Point(r.X, r.Y);
 
+            panel.Location = new Point(34 + (8 - boyut) * 26, 30 + (9 - boyut) * 25);
+
             kutucuklar = new Kutucuk[boyut, boyut];
 
             for (int i = 0; i < boyut; i++)
