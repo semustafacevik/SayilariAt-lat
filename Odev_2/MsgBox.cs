@@ -3,6 +3,9 @@ using System.Windows.Forms;
 
 namespace Odev_2
 {
+    /// <summary>
+    /// Ekran yerleşimine göre özel messagebox ayarlarının bulunduğu sınıf
+    /// </summary>
     public class MsgBox
     {
         private static Win32.WindowsHookProc _hookProcDelegate = null;

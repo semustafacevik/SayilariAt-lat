@@ -42,3 +42,14 @@ C:\Users\MustafaCevik\Desktop\_Proje\Odev_2\obj\Debug\Odev_2.csproj.GenerateReso
 C:\Users\MustafaCevik\Desktop\_Proje\Odev_2\obj\Debug\Odev_2.csproj.CoreCompileInputs.cache
 C:\Users\MustafaCevik\Desktop\_Proje\Odev_2\obj\Debug\Odev_2.exe
 C:\Users\MustafaCevik\Desktop\_Proje\Odev_2\obj\Debug\Odev_2.pdb
+C:\Users\MustafaCevik\Desktop\SayilariAt-lat\Odev_2\bin\Debug\Odev_2.exe.config
+C:\Users\MustafaCevik\Desktop\SayilariAt-lat\Odev_2\bin\Debug\Odev_2.exe
+C:\Users\MustafaCevik\Desktop\SayilariAt-lat\Odev_2\bin\Debug\Odev_2.pdb
+C:\Users\MustafaCevik\Desktop\SayilariAt-lat\Odev_2\obj\Debug\Odev_2.csprojAssemblyReference.cache
+C:\Users\MustafaCevik\Desktop\SayilariAt-lat\Odev_2\obj\Debug\Odev_2.OyunBoyutu.resources
+C:\Users\MustafaCevik\Desktop\SayilariAt-lat\Odev_2\obj\Debug\Odev_2.Oyun.resources
+C:\Users\MustafaCevik\Desktop\SayilariAt-lat\Odev_2\obj\Debug\Odev_2.Properties.Resources.resources
+C:\Users\MustafaCevik\Desktop\SayilariAt-lat\Odev_2\obj\Debug\Odev_2.csproj.GenerateResource.cache
+C:\Users\MustafaCevik\Desktop\SayilariAt-lat\Odev_2\obj\Debug\Odev_2.csproj.CoreCompileInputs.cache
+C:\Users\MustafaCevik\Desktop\SayilariAt-lat\Odev_2\obj\Debug\Odev_2.exe
+C:\Users\MustafaCevik\Desktop\SayilariAt-lat\Odev_2\obj\Debug\Odev_2.pdb

@@ -19,34 +19,11 @@ namespace Odev_2
             InitializeComponent();
         }
 
-        private void btn5x5_Click(object sender, EventArgs e)
+        private void On_Click(object sender, EventArgs e)
         {
-            boyut = 5; // 5x5 boyutunda oyun oluşturulacak.
+            Button btn = (Button)sender;
+            boyut = Convert.ToInt32(btn.Name.Substring(3, 1)); // 5x5 boyutunda oyun oluşturulacak.
             Hide();
         }
-
-        private void btn6x6_Click(object sender, EventArgs e)
-        {
-            boyut = 6; // 6x6 boyutunda oyun oluşturulacak.
-            Hide();
-        }
-
-        private void btn7x7_Click(object sender, EventArgs e)
-        {
-            boyut = 7; // 7x7 boyutunda oyun oluşturulacak.
-            Hide();
-        }
-
-        private void btn8x8_Click(object sender, EventArgs e)
-        {
-            boyut = 8; // 8x8 boyutunda oyun oluşturulacak.
-            Hide();
-        }
-
-        private void btn9x9_Click(object sender, EventArgs e)
-        {
-            boyut = 9; // 9x9 boyutunda oyun oluşturulacak.
-            Hide();
-        } 
     }
 }
